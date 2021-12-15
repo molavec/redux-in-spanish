@@ -51,7 +51,7 @@ Por último, vamos a agregar una acción más para cambiar las tareas visibles a
 
 ## Creadores de acciones
 
-Los **creadores de acciones** son exactamente eso, funciones que crean acciones. Es fácil combinar los términos "acción" con "creador de acción", así que haz lo mejor por usar los términos correctos.
+Los **creadores de acciones** son exactamente eso, funciones que crean acciones. Es fácil confundir los términos "acción" con "creador de acción", así que haz lo mejor por usar los términos correctos.
 
 En implementaciones de [Flux tradicional](http://facebook.github.io/flux), los creadores de acciones ejecutan el despacho cuando son invocadas, algo así:
 
